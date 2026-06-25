@@ -1,0 +1,46 @@
+FILE INTEGRITY MONITOR - DOCUMENTATION
+
+Project Name:
+File Integrity Monitor
+
+Objective:
+The purpose of this project is to monitor files in a specified folder and detect changes. The system identifies file creation, modification, and deletion using SHA-256 hashing.
+
+Tools and Technologies Used:
+
+* Python
+* hashlib
+* os
+
+How the Project Works:
+
+1. The program scans all files inside the monitored folder.
+2. A SHA-256 hash value is generated for each file.
+3. The hash values are stored and compared continuously.
+4. The folder is monitored for any changes.
+5. When a new file is added, the program detects it as CREATED.
+6. When a file is modified, the program detects it as MODIFIED.
+7. When a file is deleted, the program detects it as DELETED.
+8. All detected changes are recorded in the log file.
+
+Features:
+
+* Real-time file monitoring
+* Detects file creation
+* Detects file modification
+* Detects file deletion
+* Uses SHA-256 hashing for file integrity checking
+* Stores detected changes in log.txt
+
+Project Structure:
+
+* fim.py : Main Python program
+* monitored_folder : Folder being monitored
+* log.txt : Stores detected changes
+* README.md : Project information
+* documentation.txt : Project documentation
+* screenshots : Contains screenshots
+* output : Contains output images
+
+Conclusion:
+This project demonstrates how Python can be used to monitor file integrity. By comparing SHA-256 hash values, the system can detect changes to files and help identify unauthorized modifications.

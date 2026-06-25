@@ -1,0 +1,34 @@
+Monitoring started...
+
+[MODIFIED] new file.txt
+[DELETED] new file.txt
+[CREATED] New Text Document.txt
+[CREATED] new file.txt
+[DELETED] New Text Document.txt
+Monitoring started...
+
+Monitoring started...
+
+[MODIFIED] notes.txt
+[DELETED] new file.txt
+[CREATED] New Text Document.txt
+[CREATED] monitor.txt
+[DELETED] New Text Document.txt
+[CREATED] New Bitmap image.bmp
+[CREATED] screen1.png.bmp
+[DELETED] New Bitmap image.bmp
+[DELETED] screen1.png.bmp
+[CREATED] New Bitmap image.bmp
+[CREATED] screen1.bmp
+[DELETED] New Bitmap image.bmp
+[DELETED] screen1.bmp
+[CREATED] New Text Document.txt
+[CREATED] documentation.txt
+[DELETED] New Text Document.txt
+[MODIFIED] documentation.txt
+Monitoring started...
+
+Monitoring started...
+
+Monitoring started...
+
